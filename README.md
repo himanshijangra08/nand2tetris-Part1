@@ -6,7 +6,8 @@ This is a repository for hdl projects
 ![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/7bf1359e-188e-4197-b370-b8490e7cbbed)
 
 <br>
-&nbsp;&nbsp;&nbsp;Output :<br>
+&nbsp;&nbsp;&nbsp;Output : <br> 
+
 ![image](https://github.com/narendrachatterjee/nand2tetris-Part1-him/assets/48941364/78834b08-48eb-452a-ae95-738761e0e628)
 
 
