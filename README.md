@@ -2,7 +2,7 @@
 This is a repository for hdl projects
 <br><br>
 <b>Not Gate</b><br>
-&nbsp;&nbsp;&nbsp;Gate Visualization : 
+&nbsp;&nbsp;&nbsp;Gate Visualization : <br>
 ![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/7bf1359e-188e-4197-b370-b8490e7cbbed)
 
 <br>
