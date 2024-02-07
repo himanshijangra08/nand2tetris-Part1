@@ -66,6 +66,8 @@ This is a repository for hdl projects
 
 <br>
 &nbsp;&nbsp;&nbsp;Output :
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/1c4a4e5c-acc6-454c-8d6a-2fb3f93d40b9)
+
 
 
 
@@ -78,6 +80,8 @@ This is a repository for hdl projects
 
 <br>
 &nbsp;&nbsp;&nbsp;Output :
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/316b1be3-2f74-44da-b44f-93723484b7b9)
+
 
 
 
