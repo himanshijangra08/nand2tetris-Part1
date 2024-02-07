@@ -36,7 +36,8 @@ This is a repository for hdl projects
 
 <br>
 &nbsp;&nbsp;&nbsp;Output :
-"C:\Users\Sunidh\Contacts\Pictures\Screenshots\Screenshot 2024-02-07 120528.png"
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/b0d43067-cd06-4ce3-a629-b25e148685c8)
+
 
 
  <br>
