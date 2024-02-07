@@ -21,6 +21,8 @@ This is a repository for hdl projects
 ![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/4c819a61-4b9c-416a-9ad2-5ead387c03ae)
 <br>
 &nbsp;&nbsp;&nbsp;Output :
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/f699aae3-a3b0-4815-8bd6-78def20e4131)
+
 
 
 
@@ -29,9 +31,13 @@ This is a repository for hdl projects
  <br><br><br>
 
 <b>And Gate</b><br>
-&nbsp;&nbsp;&nbsp;Gate Visualization : 
+&nbsp;&nbsp;&nbsp;Gate Visualization :
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/f7ced0b8-b97c-4f0a-8251-e3a58b5a3832)
+
 <br>
 &nbsp;&nbsp;&nbsp;Output :
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/13a7e68d-8903-47be-b851-0c2b941a6bd6)
+
 
  <br>
 
