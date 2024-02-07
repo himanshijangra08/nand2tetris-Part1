@@ -6,12 +6,8 @@ This is a repository for hdl projects
 ![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/7bf1359e-188e-4197-b370-b8490e7cbbed)
 
 <br>
-&nbsp;&nbsp;&nbsp;Output : ![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/c87bd613-4c01-4c67-9731-b67b8f4a7a4c)
-
-
-
-
-
+&nbsp;&nbsp;&nbsp;Output : 
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/2157673a-defa-4064-9665-5c7b491173b0)
 
 
 <br><br><br>
@@ -21,8 +17,7 @@ This is a repository for hdl projects
 ![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/4c819a61-4b9c-416a-9ad2-5ead387c03ae)
 <br>
 &nbsp;&nbsp;&nbsp;Output :
-![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/f699aae3-a3b0-4815-8bd6-78def20e4131)
-
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/0c19a8ca-26bc-4d35-ac59-07b273567764)
 
 
 
@@ -54,6 +49,7 @@ This is a repository for hdl projects
 
 <br>
 &nbsp;&nbsp;&nbsp;Output :
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/6e5a5e08-9042-473e-82bd-6c83592bbd54)
 
  <br>
 
