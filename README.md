@@ -52,6 +52,8 @@ This is a repository for hdl projects
 
 <b>Xor Gate</b><br>
 &nbsp;&nbsp;&nbsp;Gate Visualization : 
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/5f868f22-69e3-4daf-a27f-ce2916ae5681)
+
 <br>
 &nbsp;&nbsp;&nbsp;Output :
 
@@ -66,6 +68,8 @@ This is a repository for hdl projects
 
 <b>Mux Gate</b><br>
 &nbsp;&nbsp;&nbsp;Gate Visualization :
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/88200628-3b15-40d5-8a03-5cedb68ef606)
+
 <br>
 &nbsp;&nbsp;&nbsp;Output :
 
@@ -76,6 +80,8 @@ This is a repository for hdl projects
 
 <b>DMux Gate</b><br>
 &nbsp;&nbsp;&nbsp;Gate Visualization :
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/4578680d-4be2-4621-9c43-7057055a1d79)
+
 <br>
 &nbsp;&nbsp;&nbsp;Output :
 
