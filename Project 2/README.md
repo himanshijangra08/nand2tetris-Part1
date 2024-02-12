@@ -43,6 +43,7 @@ This is a repository for hdl simulators
 
 <br>
 &nbsp;&nbsp;&nbsp;Output : 
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/3181d53c-7983-4150-8c13-c938ecc82e70)
 
 <br><br><br>
 
@@ -58,6 +59,7 @@ This is a repository for hdl simulators
 
 <br>
 &nbsp;&nbsp;&nbsp;Output : 
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/2357eccb-f17d-4222-a4f8-db8b2485db42)
 
 <br><br><br>
 
