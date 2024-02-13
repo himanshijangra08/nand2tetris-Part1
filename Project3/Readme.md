@@ -66,7 +66,8 @@ This is a repository for memory
 
 
 <br>
-&nbsp;&nbsp;&nbsp;Output : 
+&nbsp;&nbsp;&nbsp;Output : ![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/2ede1f70-f977-43db-a7d5-36c4ec2c9486)
+
 
 
 <br><br><br>
