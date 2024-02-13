@@ -51,7 +51,8 @@ This is a repository for memory
 
 
 <br>
-&nbsp;&nbsp;&nbsp;Output : 
+&nbsp;&nbsp;&nbsp;Output : ![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/0818e807-3af8-4e7e-8154-063d50aa25fc)
+
 
 
 <br><br><br>
@@ -80,7 +81,8 @@ This is a repository for memory
 
 
 <br>
-&nbsp;&nbsp;&nbsp;Output : 
+&nbsp;&nbsp;&nbsp;Output : ![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/fc023df9-4cdd-4963-92b2-04d6d389879d)
+
 
 
 <br><br><br>
@@ -109,7 +111,8 @@ This is a repository for memory
 
 
 <br>
-&nbsp;&nbsp;&nbsp;Output : 
+&nbsp;&nbsp;&nbsp;Output : ![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/d87024da-f95c-4bd6-b38f-d385b1b749f1)
+
 
 
 <br><br><br>
