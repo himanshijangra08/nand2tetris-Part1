@@ -97,7 +97,8 @@ This is a repository for memory
 
 
 <br>
-&nbsp;&nbsp;&nbsp;Output : 
+&nbsp;&nbsp;&nbsp;Output : ![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/d83080f8-8806-438d-b6f7-8e1c2e5c77c1)
+
 
 
 <br><br><br>
