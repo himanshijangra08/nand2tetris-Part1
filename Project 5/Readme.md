@@ -30,3 +30,18 @@ This is a repository for memory
 
 
 <br><br><br>
+
+
+
+
+
+<br><br>
+<b>Rectangle </b><br>
+&nbsp;&nbsp;&nbsp; Implementation: 
+![image](https://github.com/himanshijangra08/nand2tetris-Part1/assets/159128445/947a9bc2-ed7b-4f87-bf3f-f707088833fb)
+
+
+
+
+<br><br><br>
+
